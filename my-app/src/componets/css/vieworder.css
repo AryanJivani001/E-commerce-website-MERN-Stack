@@ -1,0 +1,43 @@
+.top{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.Left{
+    margin-left: 100px;
+    text-align: center;
+}
+.Left h1{
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+.Right h1{
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+.Right{
+    text-align: center;
+    margin-right: 170px;
+}
+.list_img1{
+    height: 90px;
+}
+.vl1 {
+    opacity: 50%;
+    margin-left: -20px;
+    margin-top: 10px;
+    margin-right: 0px;
+    border-left: 2px solid #555555;
+    height: 100;
+}
+.order_detail1{
+    text-align: center;
+    width: 550px;
+}
+.order_detail1 .head th{
+    padding: 8px;
+}
+.order_detail1 tbody td{
+    justify-content: center;
+    vertical-align: middle;
+}
